@@ -1,0 +1,22 @@
+{
+  "name": "gaosan",
+  "description": "高三年级集控",
+  "timestamp": 1687654321,
+  "classes": [
+    {
+      "id": "22",
+      "name": "22班",
+      "url": "https://raw.githubusercontent.com/Lwais/jikong/main/22.json?ts=1687654321"
+    },
+    {
+      "id": "2",
+      "name": "2班",
+      "url": "https://raw.githubusercontent.com/Lwais/jikong/main/2.json?ts=1687654321"
+    },
+    {
+      "id": "5",
+      "name": "5班",
+      "url": "https://raw.githubusercontent.com/Lwais/jikong/main/5.json?ts=1687654321"
+    }
+  ]
+}
